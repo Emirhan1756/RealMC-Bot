@@ -19,7 +19,7 @@
     ],
   });
 
-  const TOKEN = 'MTU1NDgxMjA4MzA0MjkxODQ0MA.GBBUBp._5Ne3PxmGmZQhd2zzjYIJgOGcjOFlbDa-bBYOo';
+  const TOKEN = 'MTU1NDgxMjA4MzA0MjkxODQ0MA.GOoTED.ncFQiXJMjKBpITcUFztVGIkUZcULTz091bttrk';
   const CLIENT_ID = '1554812083042918440';
 
   // Renk Paleti
