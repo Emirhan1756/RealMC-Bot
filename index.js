@@ -19,8 +19,8 @@
     ],
   });
 
-  const TOKEN = 'BURAYA_BOT_TOKENINI_YAZ';
-  const CLIENT_ID = 'BURAYA_BOT_IDSINI_YAZ';
+  const TOKEN = 'MTU1NDgxMjA4MzA0MjkxODQ0MA.GBBUBp._5Ne3PxmGmZQhd2zzjYIJgOGcjOFlbDa-bBYOo';
+  const CLIENT_ID = '1554812083042918440';
 
   // Renk Paleti
   const COLOR = 0x0099FF; // Koyu Mavi (Altın sarısı istersen 0xFFD700 yap)
