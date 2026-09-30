@@ -138,4 +138,4 @@
     }
   });
 
-  client.login(MTU1NDgxMjA4MzA0MjkxODQ0MA.GsvDKG.Q_UZJOlRCBNr5EWxz6JXWI3Pek8Yvd4gNus0ew);
+  client.login TOKEN
